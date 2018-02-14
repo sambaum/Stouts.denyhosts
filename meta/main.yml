@@ -1,6 +1,6 @@
 ---
 
-dependencies: [ Stouts.python ]
+dependencies: [ ansible-role-python ]
 
 galaxy_info:
   author: klen
